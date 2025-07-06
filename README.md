@@ -1,2 +1,3 @@
-# website_template
-Template for fast start web development
+# Gates Of Pangea
+
+Side project for creating algorithmic and tracker music.
