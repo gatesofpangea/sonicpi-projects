@@ -1,3 +1,3 @@
-# Gates Of Pangea
+# Sonic Pi Projects
 
-Side project for creating algorithmic and tracker music.
+Tracks on Ruby
